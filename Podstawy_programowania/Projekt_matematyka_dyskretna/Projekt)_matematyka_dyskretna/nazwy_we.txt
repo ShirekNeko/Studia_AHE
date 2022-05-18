@@ -1,0 +1,16 @@
+bialystok;
+bydgoszcz;
+gdansk;
+Gorzow wielk;
+katowice;
+kielce;
+krakow;
+lublin;
+lodz;
+olsztyn;
+opole;
+poznan;
+rzeszow;
+szczecin;
+warszawa;
+wroclaw;
